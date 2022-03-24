@@ -2,6 +2,8 @@
 
 Tutorial for simple methods to process corpora.
 
+Blog link: https://zhuanlan.zhihu.com/p/486257150
+
 ## Methods
 
 1. Read all content from file to memory, and dump the results after processed.
